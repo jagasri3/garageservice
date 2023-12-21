@@ -1,0 +1,26 @@
+.content {
+  background-color: #F9F6F6;
+}
+
+.first-header {
+  background: url('https://img.freepik.com/premium-photo/car-repair-station-body-shop_41050-1731.jpg?size=626&ext=jpg&uid=R119373165&ga=GA1.1.1859402004.1703085205&semt=ais');
+}
+
+.second-header {
+  background: url('https://img.freepik.com/premium-photo/car-repair-station-with-soft-focus-light-background_41050-1403.jpg?size=626&ext=jpg&ga=GA1.1.1859402004.1703085205&semt=ais');
+}
+
+.third-header {
+  background: url('https://img.freepik.com/free-photo/modern-automobile-mechanic-composition_23-2147881165.jpg?size=626&ext=jpg&uid=R119373165&ga=GA1.1.1859402004.1703085205&semt=ais');
+}
+
+.fourth-header {
+  background: url('https://img.freepik.com/free-vector/three-men-uniform-washing-passenger-car-with-high-pressure-washer-isometric-concept_1284-58611.jpg?size=626&ext=jpg&uid=R119373165&ga=GA1.1.1859402004.1703085205&semt=ais');
+}
+
+.first-header, .second-header, .third-header, .fourth-header {
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-position: center;
+}
